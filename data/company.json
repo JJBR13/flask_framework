@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Throin Oakenshiled",
+        "description": "Thorin Oakenshield and Company, also known as the Company of Thorin Oakenshield, and called significantly as Thorin and Company are a group featured in Peter Jackson's The Hobbit film series. They were a group of thirteen dwarves, a wizard, and a hobbit. They are based on the group of the same name from The Hobbit by J. R. R Tolkien.",
+        "image_source": "https://lotr.fandom.com/wiki/Thorin_II_Oakenshield?file=ThorinTDOMTextlessPoster.jpg"
+    },
+
+    {
+        "name": "Fili & Kili",
+        "description": "Fíli and Kíli were brothers, the youngest of the thirteen Dwarves who set out with Thorin Oakenshield's company, along with Gandalf and Bilbo Baggins, to reclaim the Lonely Mountain from the dragon Smaug.",
+        "image_source": "https://lotr.fandom.com/wiki/F%C3%ADli_and_K%C3%ADli?file=The-Hobbit-Fili-and-Kili.jpg"
+    }
+]
