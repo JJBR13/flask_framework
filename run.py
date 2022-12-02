@@ -24,10 +24,10 @@ def about_member(member_name):
     member = {}
     with open("data/company.json", "r") as json_data:
         data = json.load(json_data)
-        for obj in data: 
+        for obj in data:
             if obj["url"] == member_name:
-                memeber = obj
-    return "<h1>" + memeber["name"] + "</h1>"
+                member = obj
+    return render_template("member.html", member=member)
 
 
 @app.route("/contact")
